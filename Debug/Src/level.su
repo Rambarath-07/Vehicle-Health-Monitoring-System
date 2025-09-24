@@ -1,0 +1,4 @@
+../Src/level.c:10:6:water_level_init	4	static
+../Src/level.c:30:10:water_level_read_raw	4	static
+../Src/level.c:44:7:water_level_read_percent	8	static
+../Src/level.c:63:6:delay_ms	24	static,ignoring_inline_asm

@@ -1,0 +1,16 @@
+../Src/RFID.c:50:6:RFID_delay_ms	24	static,ignoring_inline_asm
+../Src/RFID.c:57:20:rc522_cs_low	4	static
+../Src/RFID.c:58:20:rc522_cs_high	4	static
+../Src/RFID.c:60:16:spi1_transfer	16	static
+../Src/RFID.c:67:13:rc522_write_reg	16	static
+../Src/RFID.c:74:16:rc522_read_reg	24	static
+../Src/RFID.c:83:13:rc522_set_bit_mask	16	static
+../Src/RFID.c:87:13:rc522_clear_bit_mask	16	static
+../Src/RFID.c:91:13:rc522_reset	8	static
+../Src/RFID.c:98:13:rc522_init	8	static
+../Src/RFID.c:115:16:rc522_to_card	40	static
+../Src/RFID.c:150:16:rc522_request	32	static
+../Src/RFID.c:158:16:rc522_anticoll	32	static
+../Src/RFID.c:172:16:rc522_scan_internal	16	static
+../Src/RFID.c:184:6:RFID_Init	8	static
+../Src/RFID.c:188:9:RFID_Scan	136	static

@@ -1,0 +1,6 @@
+../Src/lcd.c:12:6:DelayLcd	16	static
+../Src/lcd.c:18:6:LcdInit	8	static
+../Src/lcd.c:36:6:LcdFxn	16	static
+../Src/lcd.c:101:6:lprint_num	32	static
+../Src/lcd.c:113:6:lprint	24	static
+../Src/lcd.c:127:6:aprint	24	static

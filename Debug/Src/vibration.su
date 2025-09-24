@@ -1,0 +1,4 @@
+C:/Users/BFR3KOR/STM32Cube/Repository/STM32Cube_FW_F4_V1.27.1/Drivers/CMSIS/Include/core_cm4.h:1688:22:__NVIC_EnableIRQ	16	static
+../Src/vibration.c:11:13:delay_ms	24	static
+../Src/vibration.c:23:6:Vibration_Init	8	static
+../Src/vibration.c:59:6:EXTI3_IRQHandler	8	static

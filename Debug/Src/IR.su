@@ -1,0 +1,4 @@
+C:/Users/BFR3KOR/STM32Cube/Repository/STM32Cube_FW_F4_V1.27.1/Drivers/CMSIS/Include/core_cm4.h:1688:22:__NVIC_EnableIRQ	16	static
+../Src/IR.c:12:6:GPIO_Init	4	static
+../Src/IR.c:32:6:TIM2_Init	8	static
+../Src/IR.c:58:6:TIM2_IRQHandler	4	static
