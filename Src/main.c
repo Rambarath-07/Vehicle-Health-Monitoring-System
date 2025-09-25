@@ -1,6 +1,3 @@
-RFID + IR + LCD + LEVEL + BAR GRAPH + Vib + DHT11
-
-
 #include "stm32f405xx.h"
 #include "level.h"
 #include "RFID.h"   // Your RFID driver
