@@ -6,7 +6,7 @@
 #include "IR.h"     // Your IR driver
 #include "lcd.h"
 #include "cmn.h"
-#include "vibration.h"
+#include "vibration.h" //for vibration
 #include "dht11.h"
 
 uint32_t SystemCoreClock = 72000000;
